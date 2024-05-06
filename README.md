@@ -5,7 +5,7 @@
 ###
 
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  A Full-Stack Developer working on latest technologies like Blockchain || Web3 || ReactJS || NodeJS || TypeScript || solidity || AWS Blockchain & MongoDB to create applications from scratch to completion. A tech enthusiast who loves writing efficient code and solving challenging problems and learn new things every step of the way and improving my current skills.
+  A Full-Stack Developer working on the latest technologies like Blockchain || Web3 || ReactJS || NodeJS || TypeScript || solidity || AWS Blockchain & MongoDB to create applications from scratch to completion. A tech enthusiast who loves writing efficient code and solving challenging problems and learning new things every step of the way and improving my current skills.
 </p>
 
 ###
@@ -117,13 +117,12 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=https://medium.com/@erkamalofficial&theme=default" alt="Layout with last medium posts"  />
-</div>
+<hr>
+  <h5 align="center">Support Me here</h5>
+  <div align="center">
+    <a href="https://www.buymeacoffee.com/josuerv99">
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+    </a>
+  </div>
 
 ###
