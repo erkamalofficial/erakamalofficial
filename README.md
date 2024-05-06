@@ -2,6 +2,7 @@
   <img height="150" src="https://scontent.faip2-1.fna.fbcdn.net/v/t39.30808-6/329647955_2421239801364950_1075831568202756931_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=INSDNycuVvEQ7kNvgGCAUy4&_nc_oc=AdgKuDDo0-Wnayijo9ExkqhBeH-IbQUfh0llsDX2H7mgQXW_gCbcUEv-uxkcsHDev8U&_nc_ht=scontent.faip2-1.fna&oh=00_AfAe4GiYm9wsLZsEp_QlvQ4pMa6gBVHfC4Ml3EQjvDby6A&oe=663E6B29"  />
 </div>
 
+![](https://komarev.com/ghpvc/?username=erkamalofficial)
 ###
 
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
@@ -117,6 +118,29 @@
 </div>
 
 ###
+
+<br>
+
+###
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erkamalofficial&show_icons=true&locale=en" alt="erkamalofficial" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkamalofficial&" alt="erkamalofficial" />
+</div>
+
+###
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkamalofficial&show_icons=true&locale=en&layout=compact" alt="erkamalofficial" />
+</div>
+
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=erkamalofficial)](https://github.com/erkamalofficial)
+
+
+###
+
 <hr>
   <h5 align="center">Support Me here</h5>
   <div align="center">
@@ -124,5 +148,3 @@
       <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
     </a>
   </div>
-
-###
