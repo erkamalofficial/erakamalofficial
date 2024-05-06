@@ -124,19 +124,19 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erkamalofficial&show_icons=true&locale=en" alt="erkamalofficial" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkamalofficial&" alt="erkamalofficial" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erkamalofficial&theme=synthwave&show_icons=true&locale=en" alt="erkamalofficial" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkamalofficial&theme=synthwave" alt="erkamalofficial" />
 </div>
 
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkamalofficial&show_icons=true&locale=en&layout=compact" alt="erkamalofficial" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkamalofficial&theme=synthwave&show_icons=true&locale=en&layout=compact" alt="erkamalofficial" />
 </div>
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erkamalofficial)](https://github.com/erkamalofficial)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=erkamalofficial&theme=synthwavel)](https://github.com/erkamalofficial)
 
 
 ###
