@@ -4,6 +4,12 @@
 
 ###
 
+<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
+  A Full-Stack Developer working on latest technologies like Blockchain || Web3 || ReactJS || NodeJS || TypeScript || solidity || AWS Blockchain & MongoDB to create applications from scratch to completion. A tech enthusiast who loves writing efficient code and solving challenging problems and learn new things every step of the way and improving my current skills.
+</p>
+
+###
+
 <div align="center">
   <a href="linkedin.com/in/erkamalofficial" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
@@ -38,17 +44,17 @@
   </a>
 </div>
 
-###
 
-<h1 align="center">Hello There 👋!</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
 ###
 
-<p align="left">I'm Kamal from India!<br><br>- 🔭 I’m working as Full stack Developer<br>- 📚 I'm currently python<br>- ⚡ In my free time I ...</p>
+- 🎓 I am a **Full Stack Developer**.
+- 💻 I'm currently working on **web based projects**.
+- 🌱 I'm currently learning **Data Science**. 
+- 🤔 My hobbies are **listen music 🎵 and Swimming**.
+- 📝 Sometimes I write articles on **[Meduim](https://erkamalofficial.medium.com/)**
+- 💬 If you have any questions, **just ask me**.
 
 ###
 
